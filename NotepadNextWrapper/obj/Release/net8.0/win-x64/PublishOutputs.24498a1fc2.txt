@@ -1,0 +1,2 @@
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\bin\Release\net8.0\win-x64\publish\NotepadNextWrapper.pdb
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\bin\Release\net8.0\win-x64\publish\NotepadNextWrapper.exe

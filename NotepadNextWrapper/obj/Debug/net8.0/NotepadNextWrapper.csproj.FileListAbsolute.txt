@@ -1,0 +1,14 @@
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\bin\Debug\net8.0\NotepadNextWrapper.exe
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\bin\Debug\net8.0\NotepadNextWrapper.deps.json
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\bin\Debug\net8.0\NotepadNextWrapper.runtimeconfig.json
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\bin\Debug\net8.0\NotepadNextWrapper.dll
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\bin\Debug\net8.0\NotepadNextWrapper.pdb
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\obj\Debug\net8.0\NotepadNextWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\obj\Debug\net8.0\NotepadNextWrapper.AssemblyInfoInputs.cache
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\obj\Debug\net8.0\NotepadNextWrapper.AssemblyInfo.cs
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\obj\Debug\net8.0\NotepadNextWrapper.csproj.CoreCompileInputs.cache
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\obj\Debug\net8.0\NotepadNextWrapper.dll
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\obj\Debug\net8.0\refint\NotepadNextWrapper.dll
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\obj\Debug\net8.0\NotepadNextWrapper.pdb
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\obj\Debug\net8.0\NotepadNextWrapper.genruntimeconfig.cache
+C:\Users\npalmer\RiderProjects\NotepadNextWrapper\NotepadNextWrapper\obj\Debug\net8.0\ref\NotepadNextWrapper.dll
